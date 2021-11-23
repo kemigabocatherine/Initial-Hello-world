@@ -1,9 +1,28 @@
 # Hello-world
 
-Welcome repository.
+This project is my first project and it is a welcome project.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this project and associated documentation files, to deal in the project without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, and to permit persons to whom the project is furnished to do so, subject to the following conditions:
+## Built With
+* HTML
+* CSS
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the project.
+## Getting Started
+1 Create a repository and clone it to your local environment.
+2 Create the following files;
+    * html file
+    * css file
+    * readme file
+    * gitignore file
+    * test.md file
+3 Set up the linters in the project to check for any errors.
+4 Add the basic structure of an html file as well as a header with an h1 tag.
+5 In the css file, add your favorite color to the header.
+6 Add the test.md file the gitignore file.
+7 Run the linters and correct any detected errors.
 
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
+## Contact
+GitHub: [@githubhandle](https://github.com/kemigabocatherine)
+Twitter: [@twitterhandle](https://twitter.com/catherinek205)
+
+## Show your support
+Give a star if you like this project!
