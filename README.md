@@ -12,15 +12,15 @@ This project is my first project and it is a welcome project.
 
 2 Create the following files;
 
-    * html file
+* html file
     
-    * css file
+* css file
     
-    * readme file
+* readme file
     
-    * gitignore file
+* gitignore file
     
-    * test.md file
+* test.md file
     
 3 Set up the linters in the project to check for any errors.
 
